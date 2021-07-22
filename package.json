@@ -1,0 +1,30 @@
+{
+  "name": "intro-unit-testing",
+  "version": "1.0.0",
+  "description": "Jest intro",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "jest",
+    "unit",
+    "testing"
+  ],
+  "author": "Andrey Novikov <cooking95@yandex.ru>",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreynovikov95/intro-unit-testing.git"
+  },
+  "bugs": {
+    "url": "https://github.com/andreynovikov95/intro-unit-testing/issues"
+  },
+  "homepage": "https://github.com/andreynovikov95/intro-unit-testing#readme"
+}
